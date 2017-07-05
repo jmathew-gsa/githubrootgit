@@ -2,6 +2,7 @@
 
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <section class="featured">
+        <asp:Label id="lblTestEdit runat="server" Text="Test Edit" />
         <div class="content-wrapper">
             <hgroup class="title">
                 <h1><%: Title %>.</h1>
