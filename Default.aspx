@@ -2,8 +2,9 @@
 
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <section class="featured">
-        <asp:Label id="lblTestEdit runat="server" Text="Test Edit" />
-        <asp:Label id="lblTestEdit2 runat="server" Text="Test Edit2" />
+        <asp:Label id="lblTestEdit" runat="server" Text="Test Edit" />
+        <asp:Label id="lblTestEdit2" runat="server" Text="Test Edit2" />
+        <asp:Label id="lblTestEdit3" runat="server" Text="Test Edit3" />
         <div class="content-wrapper">
             <hgroup class="title">
                 <h1><%: Title %>.</h1>
