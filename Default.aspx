@@ -6,6 +6,7 @@
         <asp:Label id="lblTestEdit2" runat="server" Text="Test Edit2" />
         <asp:Label id="lblTestEdit3" runat="server" Text="Test Edit3" />
         <asp:Label id="lblTestEdit4" runat="server" Text="Test Changd Edit4" />
+        <asp:Label id="lblTestEdit5" runat="server" Text="Test Edit5" />
         <div class="content-wrapper">
             <hgroup class="title">
                 <h1><%: Title %>.</h1>
